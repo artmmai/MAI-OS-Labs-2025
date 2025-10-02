@@ -26,6 +26,6 @@ gcc client.c -o client
 ./client
 
 # если хочется отдельно протестировать функции 
-./child1 
-./child2 
+./child 1 
+./child 2 
 ```
